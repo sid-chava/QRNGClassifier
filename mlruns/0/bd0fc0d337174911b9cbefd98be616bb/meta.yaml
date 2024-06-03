@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/bd0fc0d337174911b9cbefd98be616bb/artifacts
+end_time: 1717195020668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd0fc0d337174911b9cbefd98be616bb
+run_name: luminous-bug-440
+run_uuid: bd0fc0d337174911b9cbefd98be616bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717195012880
+status: 3
+tags: []
+user_id: sid

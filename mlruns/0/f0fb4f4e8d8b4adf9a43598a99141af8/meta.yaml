@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/f0fb4f4e8d8b4adf9a43598a99141af8/artifacts
+end_time: 1717193581572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0fb4f4e8d8b4adf9a43598a99141af8
+run_name: lyrical-stag-988
+run_uuid: f0fb4f4e8d8b4adf9a43598a99141af8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717193556107
+status: 3
+tags: []
+user_id: sid

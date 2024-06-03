@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/96040bfe4f48408abb8791559d266b15/artifacts
+end_time: 1717193825145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96040bfe4f48408abb8791559d266b15
+run_name: nebulous-pig-472
+run_uuid: 96040bfe4f48408abb8791559d266b15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717193799186
+status: 3
+tags: []
+user_id: sid

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/41123cbafa5540ba9b8c7b19371b48eb/artifacts
+end_time: 1717198795151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41123cbafa5540ba9b8c7b19371b48eb
+run_name: persistent-boar-529
+run_uuid: 41123cbafa5540ba9b8c7b19371b48eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717198785866
+status: 3
+tags: []
+user_id: sid

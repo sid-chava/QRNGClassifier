@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/9eae4a9ab23e4bb0aaca4031b503f3d1/artifacts
+end_time: 1717439188034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eae4a9ab23e4bb0aaca4031b503f3d1
+run_name: capricious-bear-392
+run_uuid: 9eae4a9ab23e4bb0aaca4031b503f3d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717439166388
+status: 3
+tags: []
+user_id: sid

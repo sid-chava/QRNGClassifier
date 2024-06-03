@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/b553c14838a541ca905328ff0384feeb/artifacts
+end_time: 1717194919596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b553c14838a541ca905328ff0384feeb
+run_name: colorful-smelt-991
+run_uuid: b553c14838a541ca905328ff0384feeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717194910907
+status: 3
+tags: []
+user_id: sid

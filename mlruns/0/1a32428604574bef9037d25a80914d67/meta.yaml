@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/1a32428604574bef9037d25a80914d67/artifacts
+end_time: 1717193497998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a32428604574bef9037d25a80914d67
+run_name: stylish-shoat-666
+run_uuid: 1a32428604574bef9037d25a80914d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717193476025
+status: 3
+tags: []
+user_id: sid

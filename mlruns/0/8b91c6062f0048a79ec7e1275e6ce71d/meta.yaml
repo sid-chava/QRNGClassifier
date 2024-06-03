@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/8b91c6062f0048a79ec7e1275e6ce71d/artifacts
+end_time: 1717196739187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b91c6062f0048a79ec7e1275e6ce71d
+run_name: kindly-asp-166
+run_uuid: 8b91c6062f0048a79ec7e1275e6ce71d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717196733495
+status: 4
+tags: []
+user_id: sid

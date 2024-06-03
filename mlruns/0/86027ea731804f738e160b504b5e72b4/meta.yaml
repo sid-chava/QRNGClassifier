@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/86027ea731804f738e160b504b5e72b4/artifacts
+end_time: 1717194983026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86027ea731804f738e160b504b5e72b4
+run_name: useful-roo-62
+run_uuid: 86027ea731804f738e160b504b5e72b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717194971519
+status: 3
+tags: []
+user_id: sid

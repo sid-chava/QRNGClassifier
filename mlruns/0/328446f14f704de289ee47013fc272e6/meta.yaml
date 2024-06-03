@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/328446f14f704de289ee47013fc272e6/artifacts
+end_time: 1717439244998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 328446f14f704de289ee47013fc272e6
+run_name: bittersweet-boar-856
+run_uuid: 328446f14f704de289ee47013fc272e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717439220393
+status: 3
+tags: []
+user_id: sid
