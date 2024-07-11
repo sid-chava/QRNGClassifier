@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/11c1a19278e34fc48f9c31777a41810a/artifacts
+end_time: 1718135781909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11c1a19278e34fc48f9c31777a41810a
+run_name: serious-bird-776
+run_uuid: 11c1a19278e34fc48f9c31777a41810a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718135763626
+status: 3
+tags: []
+user_id: sid

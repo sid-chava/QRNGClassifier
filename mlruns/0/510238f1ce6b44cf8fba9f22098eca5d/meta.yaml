@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/510238f1ce6b44cf8fba9f22098eca5d/artifacts
+end_time: 1718038568029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 510238f1ce6b44cf8fba9f22098eca5d
+run_name: rumbling-smelt-384
+run_uuid: 510238f1ce6b44cf8fba9f22098eca5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718038555923
+status: 3
+tags: []
+user_id: sid

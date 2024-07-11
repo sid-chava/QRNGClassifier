@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/54dfef3079fb4f0e8fb355a3be7108f7/artifacts
+end_time: 1717600751074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54dfef3079fb4f0e8fb355a3be7108f7
+run_name: auspicious-gnu-882
+run_uuid: 54dfef3079fb4f0e8fb355a3be7108f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717600747256
+status: 3
+tags: []
+user_id: sid

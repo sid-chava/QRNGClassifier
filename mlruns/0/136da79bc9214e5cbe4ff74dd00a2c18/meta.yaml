@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/136da79bc9214e5cbe4ff74dd00a2c18/artifacts
+end_time: 1717539757464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 136da79bc9214e5cbe4ff74dd00a2c18
+run_name: industrious-auk-597
+run_uuid: 136da79bc9214e5cbe4ff74dd00a2c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717539757453
+status: 4
+tags: []
+user_id: sid

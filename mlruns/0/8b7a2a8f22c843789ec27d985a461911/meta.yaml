@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/8b7a2a8f22c843789ec27d985a461911/artifacts
+end_time: 1718310592836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b7a2a8f22c843789ec27d985a461911
+run_name: capable-auk-759
+run_uuid: 8b7a2a8f22c843789ec27d985a461911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718310579340
+status: 3
+tags: []
+user_id: sid

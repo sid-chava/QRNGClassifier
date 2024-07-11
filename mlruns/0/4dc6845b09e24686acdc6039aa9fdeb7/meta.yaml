@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/4dc6845b09e24686acdc6039aa9fdeb7/artifacts
+end_time: 1717600713586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dc6845b09e24686acdc6039aa9fdeb7
+run_name: serious-finch-493
+run_uuid: 4dc6845b09e24686acdc6039aa9fdeb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717600710292
+status: 3
+tags: []
+user_id: sid

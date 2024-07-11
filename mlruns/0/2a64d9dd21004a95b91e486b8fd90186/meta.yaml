@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/2a64d9dd21004a95b91e486b8fd90186/artifacts
+end_time: 1718040961299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a64d9dd21004a95b91e486b8fd90186
+run_name: kindly-shark-36
+run_uuid: 2a64d9dd21004a95b91e486b8fd90186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718040951005
+status: 3
+tags: []
+user_id: sid

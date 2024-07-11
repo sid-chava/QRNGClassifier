@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/fc3d042b1f20495e8053211195cbdf02/artifacts
+end_time: 1718037466027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc3d042b1f20495e8053211195cbdf02
+run_name: chill-snail-182
+run_uuid: fc3d042b1f20495e8053211195cbdf02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718037453614
+status: 3
+tags: []
+user_id: sid

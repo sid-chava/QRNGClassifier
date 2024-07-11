@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/78e0380c5297486184924b1e08dada0d/artifacts
+end_time: 1718037290893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78e0380c5297486184924b1e08dada0d
+run_name: amazing-cat-281
+run_uuid: 78e0380c5297486184924b1e08dada0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718037290880
+status: 4
+tags: []
+user_id: sid

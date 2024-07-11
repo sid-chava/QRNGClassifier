@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/48563e6410db4601a04e82ffa5bee47c/artifacts
+end_time: 1717539633088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48563e6410db4601a04e82ffa5bee47c
+run_name: smiling-mare-622
+run_uuid: 48563e6410db4601a04e82ffa5bee47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717539624082
+status: 3
+tags: []
+user_id: sid

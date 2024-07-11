@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/983822d914834e4ea1b58b0c4447c35a/artifacts
+end_time: 1718036568159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 983822d914834e4ea1b58b0c4447c35a
+run_name: nosy-hare-655
+run_uuid: 983822d914834e4ea1b58b0c4447c35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718036568151
+status: 4
+tags: []
+user_id: sid

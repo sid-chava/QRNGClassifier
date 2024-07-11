@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/23684bb41aef4f05a7cc0001e7feb305/artifacts
+end_time: 1718114553648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23684bb41aef4f05a7cc0001e7feb305
+run_name: hilarious-pug-361
+run_uuid: 23684bb41aef4f05a7cc0001e7feb305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718114540082
+status: 3
+tags: []
+user_id: sid

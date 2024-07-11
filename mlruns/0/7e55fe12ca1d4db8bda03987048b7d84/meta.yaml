@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/7e55fe12ca1d4db8bda03987048b7d84/artifacts
+end_time: 1718298088789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e55fe12ca1d4db8bda03987048b7d84
+run_name: mercurial-hen-338
+run_uuid: 7e55fe12ca1d4db8bda03987048b7d84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718298083499
+status: 3
+tags: []
+user_id: sid

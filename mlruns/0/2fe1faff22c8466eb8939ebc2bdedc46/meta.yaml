@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/2fe1faff22c8466eb8939ebc2bdedc46/artifacts
+end_time: 1718311678754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fe1faff22c8466eb8939ebc2bdedc46
+run_name: intelligent-eel-228
+run_uuid: 2fe1faff22c8466eb8939ebc2bdedc46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718311667295
+status: 3
+tags: []
+user_id: sid

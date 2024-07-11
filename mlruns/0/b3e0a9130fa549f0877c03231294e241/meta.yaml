@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/b3e0a9130fa549f0877c03231294e241/artifacts
+end_time: 1720040361927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3e0a9130fa549f0877c03231294e241
+run_name: monumental-mare-322
+run_uuid: b3e0a9130fa549f0877c03231294e241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720040355351
+status: 3
+tags: []
+user_id: sid

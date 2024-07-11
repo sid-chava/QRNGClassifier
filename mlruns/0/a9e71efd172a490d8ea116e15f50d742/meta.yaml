@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/a9e71efd172a490d8ea116e15f50d742/artifacts
+end_time: 1718300640768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9e71efd172a490d8ea116e15f50d742
+run_name: unruly-lynx-713
+run_uuid: a9e71efd172a490d8ea116e15f50d742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300640709
+status: 4
+tags: []
+user_id: sid

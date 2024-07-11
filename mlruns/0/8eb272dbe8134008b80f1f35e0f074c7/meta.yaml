@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sid/Code/QRNGclassifier/mlruns/0/8eb272dbe8134008b80f1f35e0f074c7/artifacts
+end_time: 1717540047158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eb272dbe8134008b80f1f35e0f074c7
+run_name: bald-snail-285
+run_uuid: 8eb272dbe8134008b80f1f35e0f074c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717540043193
+status: 3
+tags: []
+user_id: sid

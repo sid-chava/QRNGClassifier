@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "GitWorkshop",
+			"path": "../GitWorkshop"
+		},
+		{
+			"name": "GitWorkshop-1",
+			"path": "../GitWorkshop-1"
+		}
+	],
+	"settings": {}
+}
